@@ -114,7 +114,7 @@ Example:
 
 ## 🌐 Live Demo
 
-Add deployed project link here.
+https://event-next-event-booking.vercel.app/login
 
 ---
 
