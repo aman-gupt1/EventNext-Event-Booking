@@ -1,5 +1,5 @@
 
-# Event Booking Platform 🎟️
+# EventNext-Event Booking Platform [MERN] 🎟️
 
 A full-stack Event Booking web application built using the MERN Stack. Users can browse events, book tickets, and receive booking confirmation emails.
 Only admin can create,add,delete,update event  and without  admin confiramation event confirmation will not be okk 
