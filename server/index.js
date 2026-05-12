@@ -14,7 +14,12 @@ const bookingRoutes = require('./routes/bookings');
 const app = express();
 
 // Middleware
-app.use(cors());
+// app.use(cors());
+
+app.use(cors({
+  origin: "https://event-next-event-booking.vercel.app",
+  credentials: true
+}));
 app.use(express.json());
 
 // Routes
